@@ -29,16 +29,19 @@ Optimization	         DAX Studio
 🧠 **Workflow Summary**
 
 **SQL Data Exploration**
+
 Loaded raw data into MySQL and created relationships using Snowflake schema.
 Designed ERD (Entity Relationship Diagram) to maintain referential integrity.
 Wrote complex SQL queries to derive KPIs and insights requested by product owners.
 Developed Stored Procedures to extract reports based on filters for Finance, Sales, and Supply Chain teams.
 
 **Data Cleaning & Transformation**
+
 Implemented multiple data-cleaning steps and business rule validations.
 Designed an ETL pipeline to connect and transform data using Power Query in Power BI.
 
 **Power BI Development**
+
 Connected Power BI to MySQL and Excel.
 Built a data model using Snowflake schema and performed data validation with benchmark values.
 Created calculated columns and measures using DAX.
