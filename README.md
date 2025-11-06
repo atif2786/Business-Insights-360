@@ -18,6 +18,7 @@ This project simulates a real-world business scenario where I acted as a **Data 
 - Enable automation, interactivity, and data refresh pipelines for continuous insights.
 
 🛠️ **Tools & Technologies Used**
+
 **Category**	         **Tools / Technologies**
 Database	             MySQL
 Data Preparation	     MS Excel, Power Query
@@ -46,7 +47,8 @@ Used Bookmarks, Toggle buttons, and Conditional formatting to enhance interactiv
 Set up automatic data refresh through Power BI Gateway.
 Deployed and shared the final dashboard via Power BI Service for UAT and stakeholder review.
 
-📈 Dashboard Views
+📈 **Dashboard Views**
+
 1️⃣ **Finance View**
 - Full Profit & Loss statement with metrics from Gross Sales → Net Profit.
 - KPIs: Net Sales, Gross Margin %, Net Profit %.
@@ -76,22 +78,26 @@ Deployed and shared the final dashboard via Power BI Service for UAT and stakeho
 - Sub-Zone revenue contribution insights.
 
 💡 **Key Insights**
+
 - Finance: Focused on Gross Margin and Net Profit as core profitability metrics.
 - Sales: Net Sales and Gross Margin drive key performance trends.
 - Marketing: Understanding changes in marketing spend and its revenue impact.
 - Supply Chain: Forecast Accuracy and Inventory Risk are critical for efficiency.
 - Executive: Multi-level view for quick decision-making across departments.
 
-🧭 Domain Knowledge Gained
+🧭 **Domain Knowledge Gained**
+
 - Finance: Gross Margin, Net Profit, P&L metrics
 - Sales: Discounts, COGS, Market/Customer segmentation
 - Marketing: Campaign ROI and category profitability
 - Supply Chain: Forecast accuracy, error metrics, inventory management
 
 ⚙️ **DAX Functions Used**
+
 CALCULATE() • DIVIDE() • FILTER() • SWITCH() • RELATED() • SUMX()
 
 🧩 **Business Terms**
+
 **Term**	                **Description**
 Gross Price	              Selling price before discounts
 Pre-Invoice Deduction	    Discounts applied before invoicing
@@ -102,16 +108,19 @@ YTD	                      Year to Date
 YTG	                      Year to Go
 
 📊 **Project Outcomes**
+
 ✅ Enabled data-driven decisions across departments
 ✅ Improved forecast accuracy and inventory management
 ✅ Enhanced visibility of financial and operational metrics
 ✅ Empowered management with a unified executive dashboard
 
 📚 **Learnings**
+
 - Importance of stakeholder communication and expectation management
 - Data validation and benchmarking for reliability
 - Optimizing dashboards for performance and usability
 - Designing multi-level analytics views for deep insights
 
 🏁 **Conclusion**
+
 This project enhanced my **end-to-end data analytics skills** — from SQL data modeling to interactive Power BI dashboarding. It reflects how data can be transformed into actionable insights that drive informed business decisions across multiple functions.
