@@ -86,45 +86,79 @@ In Home view, all the views button will be available. User will land on specific
 ## Overall Report
 
 ## 1️⃣ Finance View
-- Full Profit & Loss statement with metrics from Gross Sales → Net Profit.
-- KPIs: Net Sales, Gross Margin %, Net Profit %.
-- Dynamic comparison with Target or Last Year (LY).
-- Top/Bottom Products & Customers based on Net Sales.
+**Purpose**: To track overall company profitability and financial performance.
+
+**Key Features**:
+Full Profit & Loss statement with metrics from Gross Sales → Net Profit.
+KPIs: Net Sales, Gross Margin %, Net Profit %.
+Dynamic comparison with Target or Last Year (LY).
+Top/Bottom Products & Customers based on Net Sales.
+
+👤 **Stakeholder**:
+**Finance Managers** and **CFOs** use this view to monitor the company’s financial health, identify cost leakages, and ensure that revenue targets are met compared to benchmarks or last year’s performance.
 
 ## 2️⃣ Sales View
-- Analysis of Unit Economics (Net Sales vs Discounts & COGS).
-- Product and Customer performance by Gross Margin % and Net Sales.
-- Market/Region/Customer matrix analysis.
-- Trend tooltips for each customer’s performance.
+
+**Purpose**: To analyze sales performance and understand market dynamics.
+
+**Key Features**:
+Analysis of Unit Economics (Net Sales vs Discounts & COGS).
+Product and Customer performance by Gross Margin % and Net Sales.
+Market/Region/Customer performance matrix.
+Trend tooltips for customer-level performance tracking.
+
+👤 **Stakeholder**:
+**Sales Heads** and **Regional Managers** rely on this view to evaluate sales performance, identify high or low-performing customers or products, and make data-driven decisions on pricing and discounts.
 
 ## 3️⃣ Marketing View
-- Evaluation of Operational Expenses and Net Profit impact.
-- Performance Matrix by Segment, Category, and Product.
-- Dynamic toggle button to switch between Gross Margin and Net Profit analysis.
+
+**Purpose**: To evaluate marketing expenses and their impact on profitability.
+
+**Key Features**:
+Tracks Operational Expenses and their effect on Net Profit.
+Performance matrix by Segment, Category, and Product.
+Dynamic toggle button to switch between Gross Margin and Net Profit perspectives.
+
+👤 **Stakeholder**:
+**Marketing Managers** use this dashboard to analyze the ROI of marketing campaigns, identify which product categories respond best to promotions, and align marketing spend with overall revenue goals.
 
 ## 4️⃣ Supply Chain View
-- KPIs: Forecast Accuracy (FA%), Net Error, Absolute Error, Risk Factor.
-- Accuracy vs Error trend analysis.
-- Customer and Product-wise FA% tracking.
+
+**Purpose**: To measure inventory efficiency and forecast accuracy.
+
+**Key Features**:
+KPIs: Forecast Accuracy (FA%), Net Error, Absolute Error, and Risk Factor.
+Accuracy vs Error trend analysis.
+Product and Customer-level FA% tracking.
+
+👤 **Stakeholder**:
+**Supply Chain Analysts and Operations Managers** use this view to ensure inventory optimization, reduce stockouts/excess inventory, and improve demand forecasting accuracy.
 
 ## 5️⃣ Executive View
-- High-level overview for top management.
-- Market Share and Revenue analysis by Division and Channel.
-- Top 5 Products and Customers by Revenue.
-- Sub-Zone revenue contribution insights.
+
+**Purpose**: To give top management a holistic company overview.
+
+**Key Features**:
+Market Share and Revenue analysis by Division and Channel.
+Top 5 Products and Top 5 Customers by Revenue.
+Sub-Zone revenue contribution insights.
+Consolidated KPIs across Finance, Sales, Marketing, and Supply Chain.
+
+👤 **Stakeholder**:
+**Executives, Directors, and CXOs** use this view for high-level strategic decisions — comparing divisions, spotting growth opportunities, and monitoring company-wide performance trends in a single page.
 
 ## 💡 Key Insights
-- Finance: Focused on Gross Margin and Net Profit as core profitability metrics.
-- Sales: Net Sales and Gross Margin drive key performance trends.
-- Marketing: Understanding changes in marketing spend and its revenue impact.
-- Supply Chain: Forecast Accuracy and Inventory Risk are critical for efficiency.
-- Executive: Multi-level view for quick decision-making across departments.
+- **Finance**: Focused on Gross Margin and Net Profit as core profitability metrics.
+- **Sales**: Net Sales and Gross Margin drive key performance trends.
+- **Marketing**: Understanding changes in marketing spend and its revenue impact.
+- **Supply Chain**: Forecast Accuracy and Inventory Risk are critical for efficiency.
+- **Executive**: Multi-level view for quick decision-making across departments.
 
 ## 🧭 Domain Knowledge Gained
-- Finance: Gross Margin, Net Profit, P&L metrics
-- Sales: Discounts, COGS, Market/Customer segmentation
-- Marketing: Campaign ROI and category profitability
-- Supply Chain: Forecast accuracy, error metrics, inventory management
+- **Finance**: Gross Margin, Net Profit, P&L metrics
+- **Sales**: Discounts, COGS, Market/Customer segmentation
+- **Marketing**: Campaign ROI and category profitability
+- **Supply Chain**: Forecast accuracy, error metrics, inventory management
 
 ## ⚙️ DAX Functions Used
 - CALCULATE()
