@@ -19,7 +19,6 @@ This project simulates a real-world business scenario where I acted as a **Data 
 - Enable automation, interactivity, and data refresh pipelines for continuous insights.
 
 ## 🛠️ Tools Used
----
 - SQL
 - Power BI Desktop
 - Excel
@@ -27,7 +26,6 @@ This project simulates a real-world business scenario where I acted as a **Data 
 - DAX studio (for optimizing the report)
 
 ## 🧠 Workflow Summary
----
 **Data Cleaning & Transformation**
 
 - Implemented multiple data-cleaning steps and business rule validations.
@@ -44,7 +42,6 @@ This project simulates a real-world business scenario where I acted as a **Data 
 - Deployed and shared the final dashboard via Power BI Service for UAT and stakeholder review.
 
 ## Company’s background
----
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 - Retailers
@@ -56,7 +53,6 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Questions to ask before starting with dashboard
-
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
 - What will be time dead-line of the project?
@@ -72,13 +68,10 @@ Project kick off session, where you should get clear of for what and why this pr
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ## Importing data into PowerBi
----
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 ## 📈 Dashboard Views
----
 ## Home view
----
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
 - Info
@@ -91,44 +84,36 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Overall Report
----
 
 ## 1️⃣ Finance View
----
 - Full Profit & Loss statement with metrics from Gross Sales → Net Profit.
 - KPIs: Net Sales, Gross Margin %, Net Profit %.
 - Dynamic comparison with Target or Last Year (LY).
 - Top/Bottom Products & Customers based on Net Sales.
 
 ## 2️⃣ Sales View
----
 - Analysis of Unit Economics (Net Sales vs Discounts & COGS).
 - Product and Customer performance by Gross Margin % and Net Sales.
 - Market/Region/Customer matrix analysis.
 - Trend tooltips for each customer’s performance.
 
 ## 3️⃣ Marketing View
----
 - Evaluation of Operational Expenses and Net Profit impact.
 - Performance Matrix by Segment, Category, and Product.
 - Dynamic toggle button to switch between Gross Margin and Net Profit analysis.
 
 ## 4️⃣ Supply Chain View
----
 - KPIs: Forecast Accuracy (FA%), Net Error, Absolute Error, Risk Factor.
 - Accuracy vs Error trend analysis.
 - Customer and Product-wise FA% tracking.
 
 ## 5️⃣ Executive View
----
 - High-level overview for top management.
 - Market Share and Revenue analysis by Division and Channel.
 - Top 5 Products and Customers by Revenue.
 - Sub-Zone revenue contribution insights.
 
 ## 💡 Key Insights
----
-
 - Finance: Focused on Gross Margin and Net Profit as core profitability metrics.
 - Sales: Net Sales and Gross Margin drive key performance trends.
 - Marketing: Understanding changes in marketing spend and its revenue impact.
@@ -136,15 +121,12 @@ In Home view, all the views button will be available. User will land on specific
 - Executive: Multi-level view for quick decision-making across departments.
 
 ## 🧭 Domain Knowledge Gained
----
-
 - Finance: Gross Margin, Net Profit, P&L metrics
 - Sales: Discounts, COGS, Market/Customer segmentation
 - Marketing: Campaign ROI and category profitability
 - Supply Chain: Forecast accuracy, error metrics, inventory management
 
 ## ⚙️ DAX Functions Used
----
 - CALCULATE()
 - DIVIDE()
 - FILTER()
@@ -153,7 +135,6 @@ In Home view, all the views button will be available. User will land on specific
 - SUMX()
 
 ## 🧩 Business related terms
----
 - Gross price
 - Pre-invoice deductions
 - Post-Invoice deductions
@@ -170,8 +151,6 @@ In Home view, all the views button will be available. User will land on specific
 - Consumer
 
 ## 📊 Project Outcomes
----
-
 ✅ Enabled data-driven decisions across departments
 
 ✅ Improved forecast accuracy and inventory management
@@ -181,13 +160,10 @@ In Home view, all the views button will be available. User will land on specific
 ✅ Empowered management with a unified executive dashboard
 
 ## 📚 Learnings
----
-
 - Importance of stakeholder communication and expectation management
 - Data validation and benchmarking for reliability
 - Optimizing dashboards for performance and usability
 - Designing multi-level analytics views for deep insights
 
 ## 🏁 Conclusion
----
 This project enhanced my **end-to-end data analytics skills** — from SQL data modeling to interactive Power BI dashboarding. It reflects how data can be transformed into actionable insights that drive informed business decisions across multiple functions.
