@@ -1,7 +1,7 @@
 # 📊 Business Insights 360 — Data Analytics Project
-
-## 🚀 Overview
 ---
+## 🚀 Overview
+
 AtliQ Hardware, a global computer hardware and accessories manufacturer, decided to implement **data analytics using Power BI** to make data-driven business decisions and stay ahead of competitors.
 Previously, the company relied on Excel for analysis, but as the business expanded, top management wanted to build interactive dashboards and generate insights across departments — **Finance, Sales, Marketing, and Supply Chain** — using **SQL and Power BI**.
 This project simulates a real-world business scenario where I acted as a **Data Analyst**, extracting insights from raw data, writing SQL queries, and designing an end-to-end Power BI dashboard following a structured analytics workflow.
