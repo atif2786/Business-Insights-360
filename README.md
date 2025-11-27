@@ -8,7 +8,7 @@ This project simulates a real-world business scenario where I acted as a **Data 
 
 🔗 **Live Dashboard Links**
 ---
-- Power BI Service: View on Power BI Service _(https://app.powerbi.com/view?r=eyJrIjoiMWVhYTlkNmUtYTIyMy00ZjQ5LTljNzMtMzAwNDUyOTIzY2RiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+- Power BI Service: View on Power BI Service _https://app.powerbi.com/view?r=eyJrIjoiMWVhYTlkNmUtYTIyMy00ZjQ5LTljNzMtMzAwNDUyOTIzY2RiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9_
 
 🧩 **Project Objectives**
 
