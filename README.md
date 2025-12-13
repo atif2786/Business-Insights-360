@@ -84,7 +84,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 ## Overall Report
-![Overall_Report](https://github.com/user-attachments/assets/c5e3abc9-84cd-4ad7-81ab-4574502634da)
+![Overall Report Dashboard](Overall_Report.gif)
 
 
 ## 1️⃣ Finance View
