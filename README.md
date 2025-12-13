@@ -99,6 +99,8 @@ Top/Bottom Products & Customers based on Net Sales.
 👤 **Stakeholder**:
 **Finance Managers** and **CFOs** use this view to monitor the company’s financial health, identify cost leakages, and ensure that revenue targets are met compared to benchmarks or last year’s performance.
 
+![Finance Report Dashboard](Finance_Report.gif)
+
 ## 2️⃣ Sales View
 
 **Purpose**: To analyze sales performance and understand market dynamics.
@@ -112,6 +114,8 @@ Trend tooltips for customer-level performance tracking.
 👤 **Stakeholder**:
 **Sales Heads** and **Regional Managers** rely on this view to evaluate sales performance, identify high or low-performing customers or products, and make data-driven decisions on pricing and discounts.
 
+![Sales Report Dashboard](Sales_Report.gif)
+
 ## 3️⃣ Marketing View
 
 **Purpose**: To evaluate marketing expenses and their impact on profitability.
@@ -123,6 +127,8 @@ Dynamic toggle button to switch between Gross Margin and Net Profit perspectives
 
 👤 **Stakeholder**:
 **Marketing Managers** use this dashboard to analyze the ROI of marketing campaigns, identify which product categories respond best to promotions, and align marketing spend with overall revenue goals.
+
+![Marketing Report Dashboard](Marketing_Report.gif)
 
 ## 4️⃣ Supply Chain View
 
@@ -136,6 +142,8 @@ Product and Customer-level FA% tracking.
 👤 **Stakeholder**:
 **Supply Chain Analysts and Operations Managers** use this view to ensure inventory optimization, reduce stockouts/excess inventory, and improve demand forecasting accuracy.
 
+![SupplyChain Report Dashboard](SupplyChain_Report.gif)
+
 ## 5️⃣ Executive View
 
 **Purpose**: To give top management a holistic company overview.
@@ -148,6 +156,8 @@ Consolidated KPIs across Finance, Sales, Marketing, and Supply Chain.
 
 👤 **Stakeholder**:
 **Executives, Directors, and CXOs** use this view for high-level strategic decisions — comparing divisions, spotting growth opportunities, and monitoring company-wide performance trends in a single page.
+
+![Executive Report Dashboard](Executive_Report.gif)
 
 ## 💡 Key Insights
 - **Finance**: Focused on Gross Margin and Net Profit as core profitability metrics.
